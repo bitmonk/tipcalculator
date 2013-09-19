@@ -10,7 +10,8 @@ Following video tutorial at:
 Diverged slightly, specifically:
 
   * Targeted iOS 7, which was released yesterday, switching the target to 6.0 in the released
-      version of XCode 5 runs into issues because it also wants to target arm64.
+      version of XCode 5 runs into issues because it also wants to target arm64, which I had
+      trouble disabling and felt like a distraction.
 
   * Did not use a dollar-sign in the UI intentionally because I feel it reaches an international
     audience better.
